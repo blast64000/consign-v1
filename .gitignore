@@ -1,0 +1,15 @@
+#ignore file
+*.pdf
+*.ini
+*.txt
+*.json
+*.out
+*.xlsx
+
+# exclude this file 
+
+package-lock.json
+
+#ignore node_nodules 
+
+node_modules/
